@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+section{
+    margin-bottom: 100px;
+}
+.flex{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    padding: 15px 40px;
+    background: #ff6868;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+}
+.heading{
+    display: block;
+    height: 124px;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    line-height: 20px;
+    border-left: 5px solid #ff6868;
+}
+.heading h1{
+    font-size: 65px;
+    padding-left: 15px;
+    padding-top: 9px;
+    color: #202020;
+    font-family: 'Philosopher', sans-serif;
+}
+.heading h1 span{
+    color: #ff6868;
+}
+.heading-text{
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: #3b3b3b;
+}
+.scroll-text{
+    margin-top: 40px;
+    font-size: 20px;
+    color: #3b3b3b;
+}
+.header-img{
+    width: 100%;
+    margin-left: 15%;
+}
+.left {
+    width: 50%;
+}
+.right{
+    width: 40%;
+}
+.mission-heading h1{
+    text-align: center;
+    font-size: 60px;
+     color: #000531;
+     font-weight: 800;
+}
+.mission-heading h1 span{
+    color: #ff6868;
+}
+.mission-child {
+    background: #85ff8b;
+    margin-left: 2%;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+.mission-child p{
+    font-size: 17px;
+    text-align: justify;
+}
+.mission-child h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+.mission-child img{
+    width: 160px;
+}
